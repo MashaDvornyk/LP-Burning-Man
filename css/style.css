@@ -55,7 +55,7 @@ body{
 
 /*Header*/
 .header{
-    background-image: url(/img/header-bg.png);
+    background-image: url(../img/header-bg.png);
     background-repeat:no-repeat ;
     background-position: bottom center;
     background-size: cover;
