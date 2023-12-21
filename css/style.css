@@ -324,7 +324,7 @@ align-items:center ;
 .navigation{
     display: flex;
     justify-content: space-between;
-    width: 430px;
+    width: 400px;
 }
 
 .navigation_list{
