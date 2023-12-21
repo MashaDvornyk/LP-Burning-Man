@@ -1,4 +1,10 @@
+html{
+    box-sizing: border-box;
+}
 
+html, body{
+    min-height: 100%;
+} 
 
 *,
 *::after,
@@ -324,7 +330,7 @@ align-items:center ;
 .navigation{
     display: flex;
     justify-content: space-between;
-    width: 400px;
+    width: 300px;
 }
 
 .navigation_list{
@@ -430,7 +436,7 @@ align-items:center ;
 .navigation{
     display: flex;
     justify-content: space-between;
-    width: 330px;
+    width: 230px;
     
 }
 
