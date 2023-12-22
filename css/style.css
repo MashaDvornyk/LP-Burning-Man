@@ -523,13 +523,12 @@ align-items:center ;
 
 .articles_column,
 .articles_column img{
-    width: 330px;
+    width: 300px;
 }
 
 .footer_content{
     padding-top: 100px;
     display: flex;
-    justify-content: flex-start;
     margin: 0;
 } 
 .footer_copyright {
